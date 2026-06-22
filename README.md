@@ -47,4 +47,4 @@ Com a oficina, adquiri conhecimento para subir meu trabalho final da disciplina 
 
 ## 👩‍💻 Autora
 
-**Paola Weber** — Turma 02
+**Paola Weber** — UFFS - Universidade Federal da Fronteira Sul.
