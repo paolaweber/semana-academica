@@ -1,4 +1,4 @@
-# semana-acadêmica
+
 
 # Semana Acadêmica — Oficina de Git
 
